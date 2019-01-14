@@ -429,7 +429,7 @@ def run_test_wait_for_sum_of_cubes():
     print('Actual:  ', actual)
     print('TEST ENDED!')
 
-    # TODO 6 (continued):
+    # DONE 6 (continued):
     #   PUT YOUR TEST   ** IN THE SPACE BETWEEN **   the
     #   print('TEST STARTED!' ...) and print('TEST ENDED') lines below.
     #
